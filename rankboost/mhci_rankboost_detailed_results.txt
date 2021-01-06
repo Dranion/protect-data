@@ -1,0 +1,183 @@
+#ASF1A-PPA2	FUSION	neoepitope_27	ENSG00000111875.7-ENSG00000138777.19
+allele peptide_seq  binding_score  normal_binding_score  peplen                                                         mutations
+HLA-A*29:02   MFVFQILMM           0.70                   NaN       9  ENST00000229595.5-ENST00000514209.5_FUSION_Junction:2-Spanning:0
+HLA-C*07:01  RHMFVFQILM           1.30                   NaN      10  ENST00000229595.5-ENST00000514209.5_FUSION_Junction:2-Spanning:0
+HLA-A*29:02   HMFVFQILM           1.50                   NaN       9  ENST00000229595.5-ENST00000514209.5_FUSION_Junction:2-Spanning:0
+HLA-C*06:02  GRHMFVFQIL           1.80                   NaN      10  ENST00000229595.5-ENST00000514209.5_FUSION_Junction:2-Spanning:0
+HLA-C*07:01  GRHMFVFQIL           2.00                   NaN      10  ENST00000229595.5-ENST00000514209.5_FUSION_Junction:2-Spanning:0
+HLA-C*06:02  RHMFVFQILM           2.20                   NaN      10  ENST00000229595.5-ENST00000514209.5_FUSION_Junction:2-Spanning:0
+HLA-C*06:02   GRHMFVFQI           2.60                   NaN       9  ENST00000229595.5-ENST00000514209.5_FUSION_Junction:2-Spanning:0
+HLA-A*29:02  HMFVFQILMM           3.25                   NaN      10  ENST00000229595.5-ENST00000514209.5_FUSION_Junction:2-Spanning:0
+HLA-B*08:01  GRHMFVFQIL           3.60                   NaN      10  ENST00000229595.5-ENST00000514209.5_FUSION_Junction:2-Spanning:0
+HLA-C*07:01   GRHMFVFQI           3.70                   NaN       9  ENST00000229595.5-ENST00000514209.5_FUSION_Junction:2-Spanning:0
+HLA-C*06:02  HMFVFQILMM           4.50                   NaN      10  ENST00000229595.5-ENST00000514209.5_FUSION_Junction:2-Spanning:0
+
+#EIF3K-CYP39A1	FUSION	neoepitope_25	ENSG00000178982.9-ENSG00000146233.7
+allele peptide_seq  binding_score  normal_binding_score  peplen                                                                                                                                                                                                                                                                                                    mutations
+HLA-B*45:01   AEMLGDLSA            0.2                   NaN       9  ENST00000248342.8-ENST00000275016.2_FUSION_Junction:56-Spanning:0,ENST00000614624.4-ENST00000275016.2_FUSION_Junction:6-Spanning:0,ENST00000593149.5-ENST00000619708.4_FUSION_Junction:56-Spanning:0,ENST00000591409.5-ENST00000275016.2_FUSION_Junction:56-Spanning:0,ENST00000591409.5-ENST00000619708...
+HLA-B*45:01  AEMLGDLSAS            0.9                   NaN      10  ENST00000248342.8-ENST00000275016.2_FUSION_Junction:56-Spanning:0,ENST00000614624.4-ENST00000275016.2_FUSION_Junction:6-Spanning:0,ENST00000593149.5-ENST00000619708.4_FUSION_Junction:56-Spanning:0,ENST00000591409.5-ENST00000275016.2_FUSION_Junction:56-Spanning:0,ENST00000591409.5-ENST00000619708...
+HLA-B*08:01   MLGDLSASI            3.2                   NaN       9  ENST00000248342.8-ENST00000275016.2_FUSION_Junction:56-Spanning:0,ENST00000614624.4-ENST00000275016.2_FUSION_Junction:6-Spanning:0,ENST00000593149.5-ENST00000619708.4_FUSION_Junction:56-Spanning:0,ENST00000591409.5-ENST00000275016.2_FUSION_Junction:56-Spanning:0,ENST00000591409.5-ENST00000619708...
+HLA-B*08:01  EMLGDLSASI            3.4                   NaN      10  ENST00000248342.8-ENST00000275016.2_FUSION_Junction:56-Spanning:0,ENST00000614624.4-ENST00000275016.2_FUSION_Junction:6-Spanning:0,ENST00000593149.5-ENST00000619708.4_FUSION_Junction:56-Spanning:0,ENST00000591409.5-ENST00000275016.2_FUSION_Junction:56-Spanning:0,ENST00000591409.5-ENST00000619708...
+
+#CENPQ	D>G	neoepitope_18	ENSG00000031691.6
+allele peptide_seq  binding_score  normal_binding_score  peplen                    mutations
+HLA-B*45:01   EEAYKKLGA           0.30                  0.40       9  ENST00000335783.3_D266G#0.5
+HLA-B*45:01  IEEAYKKLGA           0.60                  0.75      10  ENST00000335783.3_D266G#0.5
+HLA-B*45:01  EEAYKKLGAS           2.55                  2.75      10  ENST00000335783.3_D266G#0.5
+
+#CCHCR1	R>W	neoepitope_14	ENSG00000204536.13
+allele peptide_seq  binding_score  normal_binding_score  peplen                                                                                                            mutations
+HLA-B*45:01   QEARRWWQQ           2.20                  3.35       9  ENST00000396263.6_R417W#0.85,ENST00000396268.7_R506W#0.85,ENST00000451521.6_R470W#0.85,ENST00000376266.9_R417W#0.85
+HLA-C*07:01   ARRWWQQQT           2.85                  3.10       9  ENST00000396263.6_R417W#0.85,ENST00000396268.7_R506W#0.85,ENST00000451521.6_R470W#0.85,ENST00000376266.9_R417W#0.85
+HLA-C*06:02   ARRWWQQQT           3.05                  3.60       9  ENST00000396263.6_R417W#0.85,ENST00000396268.7_R506W#0.85,ENST00000451521.6_R470W#0.85,ENST00000376266.9_R417W#0.85
+HLA-C*07:01  ARRWWQQQTA           3.40                  3.30      10  ENST00000396263.6_R417W#0.85,ENST00000396268.7_R506W#0.85,ENST00000451521.6_R470W#0.85,ENST00000376266.9_R417W#0.85
+HLA-C*06:02  ARRWWQQQTA           3.50                  3.30      10  ENST00000396263.6_R417W#0.85,ENST00000396268.7_R506W#0.85,ENST00000451521.6_R470W#0.85,ENST00000376266.9_R417W#0.85
+HLA-C*07:01   RRWWQQQTA           4.10                  2.70       9  ENST00000396263.6_R417W#0.85,ENST00000396268.7_R506W#0.85,ENST00000451521.6_R470W#0.85,ENST00000376266.9_R417W#0.85
+HLA-C*06:02   SRAQEARRW           4.25                 17.00       9  ENST00000396263.6_R417W#0.85,ENST00000396268.7_R506W#0.85,ENST00000451521.6_R470W#0.85,ENST00000376266.9_R417W#0.85
+HLA-C*06:02   RRWWQQQTA           4.40                  3.60       9  ENST00000396263.6_R417W#0.85,ENST00000396268.7_R506W#0.85,ENST00000451521.6_R470W#0.85,ENST00000376266.9_R417W#0.85
+HLA-C*07:01   SRAQEARRW           4.80                  7.30       9  ENST00000396263.6_R417W#0.85,ENST00000396268.7_R506W#0.85,ENST00000451521.6_R470W#0.85,ENST00000376266.9_R417W#0.85
+HLA-C*06:02  SRAQEARRWW           4.90                  4.00      10  ENST00000396263.6_R417W#0.85,ENST00000396268.7_R506W#0.85,ENST00000451521.6_R470W#0.85,ENST00000376266.9_R417W#0.85
+
+#TXNRD1-RPS18	FUSION	neoepitope_7	ENSG00000198431.15-ENSG00000231500.6
+allele peptide_seq  binding_score  normal_binding_score  peplen                                                                                                                          mutations
+HLA-C*06:02  TRWGVGRRYA           1.30                   NaN      10  ENST00000529784.5-ENST00000439602.6_FUSION_Junction:2-Spanning:0,ENST00000529784.5-ENST00000474973.5_FUSION_Junction:2-Spanning:0
+HLA-C*06:02   TRWGVGRRY           1.50                   NaN       9  ENST00000529784.5-ENST00000439602.6_FUSION_Junction:2-Spanning:0,ENST00000529784.5-ENST00000474973.5_FUSION_Junction:2-Spanning:0
+HLA-C*07:01   TRWGVGRRY           1.80                   NaN       9  ENST00000529784.5-ENST00000439602.6_FUSION_Junction:2-Spanning:0,ENST00000529784.5-ENST00000474973.5_FUSION_Junction:2-Spanning:0
+HLA-C*07:01  TRWGVGRRYA           2.20                   NaN      10  ENST00000529784.5-ENST00000439602.6_FUSION_Junction:2-Spanning:0,ENST00000529784.5-ENST00000474973.5_FUSION_Junction:2-Spanning:0
+HLA-A*29:02   TRWGVGRRY           3.25                   NaN       9  ENST00000529784.5-ENST00000439602.6_FUSION_Junction:2-Spanning:0,ENST00000529784.5-ENST00000474973.5_FUSION_Junction:2-Spanning:0
+
+#SRP68-TFAP2A	FUSION	neoepitope_13	ENSG00000167881.14-ENSG00000137203.10
+allele peptide_seq  binding_score  normal_binding_score  peplen                                                                                                                          mutations
+HLA-B*45:01   AEGAEMAAV           0.35                   NaN       9  ENST00000539137.5-ENST00000461628.5_FUSION_Junction:3-Spanning:0,ENST00000307877.6-ENST00000461628.5_FUSION_Junction:3-Spanning:0
+HLA-B*45:01  AEGAEMAAVL           2.90                   NaN      10  ENST00000539137.5-ENST00000461628.5_FUSION_Junction:3-Spanning:0,ENST00000307877.6-ENST00000461628.5_FUSION_Junction:3-Spanning:0
+
+#TXNRD1-RPS18	FUSION	neoepitope_1	ENSG00000198431.15-ENSG00000231500.6
+allele peptide_seq  binding_score  normal_binding_score  peplen                                                                                                                          mutations
+HLA-C*07:01  MHQGVGRRYA           1.30                   NaN      10  ENST00000531689.5-ENST00000439602.6_FUSION_Junction:2-Spanning:0,ENST00000531689.5-ENST00000474973.5_FUSION_Junction:2-Spanning:0
+HLA-A*29:02  LMHQGVGRRY           1.45                   NaN      10  ENST00000531689.5-ENST00000439602.6_FUSION_Junction:2-Spanning:0,ENST00000531689.5-ENST00000474973.5_FUSION_Junction:2-Spanning:0
+HLA-C*06:02  MHQGVGRRYA           2.00                   NaN      10  ENST00000531689.5-ENST00000439602.6_FUSION_Junction:2-Spanning:0,ENST00000531689.5-ENST00000474973.5_FUSION_Junction:2-Spanning:0
+HLA-A*29:02   MHQGVGRRY           2.15                   NaN       9  ENST00000531689.5-ENST00000439602.6_FUSION_Junction:2-Spanning:0,ENST00000531689.5-ENST00000474973.5_FUSION_Junction:2-Spanning:0
+
+#TAPBP	T>R	neoepitope_10	ENSG00000231925.11
+allele peptide_seq  binding_score  normal_binding_score  peplen                                                                                                            mutations
+HLA-B*08:01   FWLPRVQPF            1.3                 13.00       9  ENST00000475304.5_T278R#0.69,ENST00000434618.6_T260R#0.69,ENST00000426633.6_T260R#0.69,ENST00000489157.5_T173R#0.69
+HLA-A*29:02   FWLPRVQPF            3.1                  2.45       9  ENST00000475304.5_T278R#0.69,ENST00000434618.6_T260R#0.69,ENST00000426633.6_T260R#0.69,ENST00000489157.5_T173R#0.69
+HLA-A*29:02  TFWLPRVQPF            4.2                  2.75      10  ENST00000475304.5_T278R#0.69,ENST00000434618.6_T260R#0.69,ENST00000426633.6_T260R#0.69,ENST00000489157.5_T173R#0.69
+HLA-A*29:02  RVQPFQEGTY            4.7                  4.25      10  ENST00000475304.5_T278R#0.69,ENST00000434618.6_T260R#0.69,ENST00000426633.6_T260R#0.69,ENST00000489157.5_T173R#0.69
+
+#RREB1	L>P	neoepitope_24	ENSG00000124782.19
+allele peptide_seq  binding_score  normal_binding_score  peplen                                                                                                                mutations
+HLA-B*45:01   GEAPAEKPA            0.5                  0.70       9  ENST00000611109.1_L535P#0.44,ENST00000379933.7_L1467P#0.44,ENST00000379938.6_L1522P#0.44,ENST00000349384.10_L1467P#0.44
+HLA-B*45:01  AEKPAEETEG            2.4                  2.25      10  ENST00000611109.1_L535P#0.44,ENST00000379933.7_L1467P#0.44,ENST00000379938.6_L1522P#0.44,ENST00000349384.10_L1467P#0.44
+HLA-B*45:01   AEKPAEETE            3.5                  3.00       9  ENST00000611109.1_L535P#0.44,ENST00000379933.7_L1467P#0.44,ENST00000379938.6_L1522P#0.44,ENST00000349384.10_L1467P#0.44
+
+#TXNRD1-RPS18	FUSION	neoepitope_3	ENSG00000198431.15-ENSG00000231500.6
+allele peptide_seq  binding_score  normal_binding_score  peplen                                                                                                                          mutations
+HLA-B*45:01   EETGMGVGR            2.4                   NaN       9  ENST00000531691.5-ENST00000474973.5_FUSION_Junction:2-Spanning:0,ENST00000531691.5-ENST00000439602.6_FUSION_Junction:2-Spanning:0
+HLA-A*29:02   TGMGVGRRY            4.0                   NaN       9  ENST00000531691.5-ENST00000474973.5_FUSION_Junction:2-Spanning:0,ENST00000531691.5-ENST00000439602.6_FUSION_Junction:2-Spanning:0
+HLA-A*29:02  ETGMGVGRRY            4.9                   NaN      10  ENST00000531691.5-ENST00000474973.5_FUSION_Junction:2-Spanning:0,ENST00000531691.5-ENST00000439602.6_FUSION_Junction:2-Spanning:0
+HLA-B*45:01  EETGMGVGRR            5.0                   NaN      10  ENST00000531691.5-ENST00000474973.5_FUSION_Junction:2-Spanning:0,ENST00000531691.5-ENST00000439602.6_FUSION_Junction:2-Spanning:0
+
+#CDC40-SNX3	FUSION	neoepitope_11	ENSG00000168438.14-ENSG00000112335.14
+allele peptide_seq  binding_score  normal_binding_score  peplen                                                                                                                                                                                           mutations
+HLA-B*45:01   YETMFAPEV           1.45                   NaN       9  ENST00000368930.5-ENST00000426155.6_FUSION_Junction:2-Spanning:0,ENST00000368932.5-ENST00000426155.6_FUSION_Junction:2-Spanning:0,ENST00000307731.1-ENST00000426155.6_FUSION_Junction:2-Spanning:0
+HLA-B*45:01  YETMFAPEVV           2.65                   NaN      10  ENST00000368930.5-ENST00000426155.6_FUSION_Junction:2-Spanning:0,ENST00000368932.5-ENST00000426155.6_FUSION_Junction:2-Spanning:0,ENST00000307731.1-ENST00000426155.6_FUSION_Junction:2-Spanning:0
+
+#TXNRD1-RPS18	FUSION	neoepitope_5	ENSG00000198431.15-ENSG00000231500.6
+allele peptide_seq  binding_score  normal_binding_score  peplen                                                                                                                                                                                                                                                                                                    mutations
+HLA-A*29:02   YNTGVGRRY           1.50                   NaN       9  ENST00000388854.7-ENST00000474973.5_FUSION_Junction:2-Spanning:0,ENST00000524698.5-ENST00000439602.6_FUSION_Junction:2-Spanning:0,ENST00000526950.1-ENST00000474973.5_FUSION_Junction:2-Spanning:0,ENST00000388854.7-ENST00000439602.6_FUSION_Junction:2-Spanning:0,ENST00000354940.10-ENST00000439602.6...
+HLA-A*29:02  EYNTGVGRRY           2.25                   NaN      10  ENST00000388854.7-ENST00000474973.5_FUSION_Junction:2-Spanning:0,ENST00000524698.5-ENST00000439602.6_FUSION_Junction:2-Spanning:0,ENST00000526950.1-ENST00000474973.5_FUSION_Junction:2-Spanning:0,ENST00000388854.7-ENST00000439602.6_FUSION_Junction:2-Spanning:0,ENST00000354940.10-ENST00000439602.6...
+HLA-B*45:01   IEGEYNTGV           3.50                   NaN       9  ENST00000388854.7-ENST00000474973.5_FUSION_Junction:2-Spanning:0,ENST00000524698.5-ENST00000439602.6_FUSION_Junction:2-Spanning:0,ENST00000526950.1-ENST00000474973.5_FUSION_Junction:2-Spanning:0,ENST00000388854.7-ENST00000439602.6_FUSION_Junction:2-Spanning:0,ENST00000354940.10-ENST00000439602.6...
+HLA-B*45:01   GEYNTGVGR           4.75                   NaN       9  ENST00000388854.7-ENST00000474973.5_FUSION_Junction:2-Spanning:0,ENST00000524698.5-ENST00000439602.6_FUSION_Junction:2-Spanning:0,ENST00000526950.1-ENST00000474973.5_FUSION_Junction:2-Spanning:0,ENST00000388854.7-ENST00000439602.6_FUSION_Junction:2-Spanning:0,ENST00000354940.10-ENST00000439602.6...
+
+#XPO5	S>N	neoepitope_23	ENSG00000124571.17
+allele peptide_seq  binding_score  normal_binding_score  peplen                     mutations
+HLA-C*07:01  NHITAENCKL            1.4                  0.90      10  ENST00000265351.11_S241N#0.7
+HLA-C*06:02  NHITAENCKL            3.9                  2.60      10  ENST00000265351.11_S241N#0.7
+HLA-A*29:02  GYIDWVSMNH            4.8                  5.65      10  ENST00000265351.11_S241N#0.7
+
+#VARS2	R>Q	neoepitope_34	ENSG00000137411.16
+allele peptide_seq  binding_score  normal_binding_score  peplen                                                                                                               mutations
+HLA-C*07:01  KAASHLQQLM            2.7                   2.5      10  ENST00000321897.9_R1049Q#0.55,ENST00000625423.2_R909Q#0.55,ENST00000542001.5_R1047Q#0.55,ENST00000541562.5_R1079Q#0.55
+HLA-B*45:01   QQLMDEPPA            2.9                   4.1       9  ENST00000321897.9_R1049Q#0.55,ENST00000625423.2_R909Q#0.55,ENST00000542001.5_R1047Q#0.55,ENST00000541562.5_R1079Q#0.55
+HLA-C*06:02  KAASHLQQLM            3.2                   2.3      10  ENST00000321897.9_R1049Q#0.55,ENST00000625423.2_R909Q#0.55,ENST00000542001.5_R1047Q#0.55,ENST00000541562.5_R1079Q#0.55
+HLA-B*08:01   KAASHLQQL            4.0                   5.4       9  ENST00000321897.9_R1049Q#0.55,ENST00000625423.2_R909Q#0.55,ENST00000542001.5_R1047Q#0.55,ENST00000541562.5_R1079Q#0.55
+
+#WDR46	V>A	neoepitope_33	ENSG00000227057.8
+allele peptide_seq  binding_score  normal_binding_score  peplen                                                  mutations
+HLA-B*08:01  LGHSNGTASL            1.3                   2.5      10  ENST00000444176.1_V268A#0.69,ENST00000374617.8_V341A#0.69
+HLA-C*07:01  IHLGHSNGTA            3.1                   0.4      10  ENST00000444176.1_V268A#0.69,ENST00000374617.8_V341A#0.69
+HLA-C*06:02  IHLGHSNGTA            3.8                   0.7      10  ENST00000444176.1_V268A#0.69,ENST00000374617.8_V341A#0.69
+
+#CDC40-SNX3	FUSION	neoepitope_12	ENSG00000168438.14-ENSG00000112335.14
+allele peptide_seq  binding_score  normal_binding_score  peplen                                                                                                                                                                                                                                                                                                    mutations
+HLA-B*45:01   YETMFAPET            1.2                   NaN       9  ENST00000368930.5-ENST00000349379.5_FUSION_Junction:2-Spanning:0,ENST00000368930.5-ENST00000230085.12_FUSION_Junction:2-Spanning:0,ENST00000368932.5-ENST00000230085.12_FUSION_Junction:2-Spanning:0,ENST00000307731.1-ENST00000349379.5_FUSION_Junction:2-Spanning:0,ENST00000368932.5-ENST00000349379....
+HLA-A*29:02  MFAPETNLPI            4.9                   NaN      10  ENST00000368930.5-ENST00000349379.5_FUSION_Junction:2-Spanning:0,ENST00000368930.5-ENST00000230085.12_FUSION_Junction:2-Spanning:0,ENST00000368932.5-ENST00000230085.12_FUSION_Junction:2-Spanning:0,ENST00000307731.1-ENST00000349379.5_FUSION_Junction:2-Spanning:0,ENST00000368932.5-ENST00000349379....
+HLA-C*06:02  FAPETNLPIF            5.0                   NaN      10  ENST00000368930.5-ENST00000349379.5_FUSION_Junction:2-Spanning:0,ENST00000368930.5-ENST00000230085.12_FUSION_Junction:2-Spanning:0,ENST00000368932.5-ENST00000230085.12_FUSION_Junction:2-Spanning:0,ENST00000307731.1-ENST00000349379.5_FUSION_Junction:2-Spanning:0,ENST00000368932.5-ENST00000349379....
+
+#DST	M>I	neoepitope_31	ENSG00000151914.19
+allele peptide_seq  binding_score  normal_binding_score  peplen                                                                                                                                                mutations
+HLA-B*08:01   FLKKLEALI           3.30                   2.6       9  ENST00000312431.10_M3179I#0.36,ENST00000421834.6_M3139I#0.36,ENST00000370788.6_M3139I#0.36,ENST00000361203.7_M5225I#0.36,ENST00000244364.10_M2813I#0.36
+HLA-B*08:01  FLKKLEALIA           4.95                   8.4      10  ENST00000312431.10_M3179I#0.36,ENST00000421834.6_M3139I#0.36,ENST00000370788.6_M3139I#0.36,ENST00000361203.7_M5225I#0.36,ENST00000244364.10_M2813I#0.36
+
+#TXNRD1-RPS18	FUSION	neoepitope_6	ENSG00000198431.15-ENSG00000231500.6
+allele peptide_seq  binding_score  normal_binding_score  peplen                                                                                                                          mutations
+HLA-A*29:02   LAAGVGRRY           2.15                   NaN       9  ENST00000528079.6-ENST00000474973.5_FUSION_Junction:2-Spanning:0,ENST00000528079.6-ENST00000439602.6_FUSION_Junction:2-Spanning:0
+HLA-A*29:02  GLAAGVGRRY           2.75                   NaN      10  ENST00000528079.6-ENST00000474973.5_FUSION_Junction:2-Spanning:0,ENST00000528079.6-ENST00000439602.6_FUSION_Junction:2-Spanning:0
+
+#ATXN1	P>S	neoepitope_35	ENSG00000124788.17
+allele peptide_seq  binding_score  normal_binding_score  peplen                                                mutations
+HLA-B*45:01   PEKMGLSAA            1.7                  1.25       9  ENST00000244769.8_P753S#1.0,ENST00000436367.5_P753S#1.0
+HLA-B*08:01   FPEKMGLSA            2.1                  2.30       9  ENST00000244769.8_P753S#1.0,ENST00000436367.5_P753S#1.0
+
+#HLA-DRB1	Q>H	neoepitope_17	ENSG00000196126.10
+allele peptide_seq  binding_score  normal_binding_score  peplen                                                  mutations
+HLA-A*29:02   GMVSTGLIH           2.60                   4.5       9  ENST00000611060.4_Q178H#0.89,ENST00000360004.5_Q178H#0.89
+HLA-A*29:02  GLIHNGDWTF           2.65                   2.8      10  ENST00000611060.4_Q178H#0.89,ENST00000360004.5_Q178H#0.89
+HLA-C*07:01  HNGDWTFQTL           3.40                   4.1      10  ENST00000611060.4_Q178H#0.89,ENST00000360004.5_Q178H#0.89
+HLA-C*06:02  HNGDWTFQTL           3.80                   4.7      10  ENST00000611060.4_Q178H#0.89,ENST00000360004.5_Q178H#0.89
+HLA-C*07:01  IHNGDWTFQT           4.60                  38.0      10  ENST00000611060.4_Q178H#0.89,ENST00000360004.5_Q178H#0.89
+
+#TXNRD1-RPS18	FUSION	neoepitope_4	ENSG00000198431.15-ENSG00000231500.6
+allele peptide_seq  binding_score  normal_binding_score  peplen                                                                                                                          mutations
+HLA-A*29:02   KLMGVGRRY            1.9                   NaN       9  ENST00000526266.5-ENST00000439602.6_FUSION_Junction:2-Spanning:0,ENST00000526266.5-ENST00000474973.5_FUSION_Junction:2-Spanning:0
+
+#ASF1A-PPA2	FUSION	neoepitope_28	ENSG00000111875.7-ENSG00000138777.19
+allele peptide_seq  binding_score  normal_binding_score  peplen                                                         mutations
+HLA-C*06:02   GRHMFVFQV           2.05                   NaN       9  ENST00000229595.5-ENST00000515567.5_FUSION_Junction:2-Spanning:0
+HLA-C*07:01   GRHMFVFQV           3.55                   NaN       9  ENST00000229595.5-ENST00000515567.5_FUSION_Junction:2-Spanning:0
+
+#CCHCR1	S>R	neoepitope_16	ENSG00000204536.13
+allele peptide_seq  binding_score  normal_binding_score  peplen                                                                                                                                                                                            mutations
+HLA-C*07:01  NLEEGRQREL            2.5                   3.9      10  ENST00000396263.6_S164R#0.4,ENST00000451521.6_S217R#0.4,ENST00000396268.7_S253R#0.4,ENST00000376266.9_S164R#0.4,ENST00000448141.6_S128R#0.4,ENST00000508683.5_S128R#0.4,ENST00000448162.6_S164R#0.4
+HLA-C*06:02  NLEEGRQREL            3.5                   5.2      10  ENST00000396263.6_S164R#0.4,ENST00000451521.6_S217R#0.4,ENST00000396268.7_S253R#0.4,ENST00000376266.9_S164R#0.4,ENST00000448141.6_S128R#0.4,ENST00000508683.5_S128R#0.4,ENST00000448162.6_S164R#0.4
+HLA-C*06:02   GRQRELEEV            3.5                  22.5       9  ENST00000396263.6_S164R#0.4,ENST00000451521.6_S217R#0.4,ENST00000396268.7_S253R#0.4,ENST00000376266.9_S164R#0.4,ENST00000448141.6_S128R#0.4,ENST00000508683.5_S128R#0.4,ENST00000448162.6_S164R#0.4
+HLA-C*07:01   GRQRELEEV            3.6                  22.5       9  ENST00000396263.6_S164R#0.4,ENST00000451521.6_S217R#0.4,ENST00000396268.7_S253R#0.4,ENST00000376266.9_S164R#0.4,ENST00000448141.6_S128R#0.4,ENST00000508683.5_S128R#0.4,ENST00000448162.6_S164R#0.4
+
+#ENPP5	L>I	neoepitope_20	ENSG00000112796.9
+allele peptide_seq  binding_score  normal_binding_score  peplen                                            mutations
+HLA-A*29:02  MTSKFILVSF           3.30                  5.20      10  ENST00000371383.6_L6I#1.0,ENST00000230565.3_L6I#1.0
+HLA-B*08:01  ILVSFILAAL           3.55                  2.65      10  ENST00000371383.6_L6I#1.0,ENST00000230565.3_L6I#1.0
+HLA-B*08:01  FILVSFILAA           5.00                  4.30      10  ENST00000371383.6_L6I#1.0,ENST00000230565.3_L6I#1.0
+
+#DST	A>T	neoepitope_32	ENSG00000151914.19
+allele peptide_seq  binding_score  normal_binding_score  peplen                                                                                 mutations
+HLA-B*45:01   TEGTPIQGS            3.6                  1.15       9  ENST00000244364.10_A5042T#0.5,ENST00000312431.10_A5408T#0.5,ENST00000421834.6_A5368T#0.5
+
+#VWA7	T>A	neoepitope_9	ENSG00000204396.10
+allele peptide_seq  binding_score  normal_binding_score  peplen                     mutations
+HLA-B*45:01  AQGRAGAGLA           3.85                  13.0      10  ENST00000375688.4_T861A#0.33
+HLA-B*45:01   AFSPFTLVA           3.90                  11.7       9  ENST00000375688.4_T861A#0.33
+
+#HIVEP1	A>G	neoepitope_26	ENSG00000095951.16
+allele peptide_seq  binding_score  normal_binding_score  peplen                                                    mutations
+HLA-C*07:01  IHGPPSHQST            3.9                   2.6      10  ENST00000379388.6_A1520G#0.96,ENST00000541134.5_A1520G#0.96
+
+#CEP85L	S>F	neoepitope_21	ENSG00000111860.13
+allele peptide_seq  binding_score  normal_binding_score  peplen                                                                                                                                                                      mutations
+HLA-B*45:01   FEQKLAFTE           4.25                   7.3       9  ENST00000360290.7_S348F#0.51,ENST00000434604.5_S453F#0.51,ENST00000368491.7_S450F#0.51,ENST00000392500.7_S453F#0.51,ENST00000419517.2_S450F#0.51,ENST00000368488.9_S453F#0.51
+
+#ARID1B	G>A	neoepitope_19	ENSG00000049618.22
+allele peptide_seq  binding_score  normal_binding_score  peplen                                                                                                                                                                                                                       mutations
+HLA-B*08:01   SPGGQMHAA            4.9                  15.0       9  ENST00000637003.1_G64A#1.0,ENST00000346085.9_G827A#1.0,ENST00000350026.10_G814A#1.0,ENST00000636930.1_G814A#1.0,ENST00000637810.1_G64A#1.0,ENST00000414678.7_G283A#1.0,ENST00000637904.1_G64A#1.0,ENST00000319584.11_G235A#1.0
+
