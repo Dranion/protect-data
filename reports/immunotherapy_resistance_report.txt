@@ -1,0 +1,39 @@
+Pathway: Immune inhibitory checkpoints (Cytotoxic T-lymphocyte-associated Antigen 4)
+
+Papers: Wolchock et al. The Oncologist (2008)
+ Byun et al. Nature Reviews Endocrinology (2017)
+Description of pathway:
+Cytotoxic T-lymphocyte-associated Antigen 4 (CTLA 4) is an immune checkpoint receptor expressed on
+the surface of T-lymphocytes. Normally, CTLA4 ensures that the immune system does not harm the host
+when reacting to a foreign antigen. When CTLA4 is present, it binds with high affinity to the B7 co-
+stimulatory ligand to which CD28 protein present on the T cell surface binds to. This prevents T
+cells from continuous immune response. Based on this immune suppression pathway, cancer cells
+developed ways to limit the host's immune response. A way to upregulate the T cell activity is to
+use monoclonal antibodies that bind to CTLA4, thus preventing them from binding to B7 ligand.
+Clinical data shows that blocking CTLA4 results in increased expression of CD4+ and CD8+ effector
+cells, which coorelates with increased anti-tumor immunity.
+Pathway genes: 
+	Gene      GTEX Median         TCGA N Median       Observed    
+	CTLA4     0.34                6.98                0.00        
+Status: Patient has lower CTLA4 expression inconsistent with good anti-CTLA4 immunotherapy response.
+
+
+Pathway: Tumor-Infiltrating Lymphocytes
+
+Papers: Iglesia et al. Clinical Cancer Research (2014)
+ Bai et al. Scientific Reports (2015)
+Description of pathway:
+Tumor-infiltrating lymphocytes (TILs) are white blood cells that have migrated into a tumor.
+Usually, patients with high concentration of TILs are associated with a better prognosis in various
+types of cancers. For example, for breast cancer studies have shown that presence of T regulatory
+cells as well as CD4/CD8 correlate with tumor grade, stage, and overall patient survival. CD8+ T
+cells, aka cytotoxic T lymphocytes are an important factor of immune defense and tumor surveillance
+since they activate major mechanisms for malignant cells destruction. Massive infiltration of CD8+
+cells for many types of cancers correlate with a better prognosis.
+Pathway genes: 
+	Gene      GTEX Median         TCGA N Median       Observed    
+	CD8       0.75                65.80               0.00        
+	BCR       28.53               12.50               0.00        
+Status: Patient has lower expression levels of CD8+ and BCR, which are inconsistent with good responders.
+
+
