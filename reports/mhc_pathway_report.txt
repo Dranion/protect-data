@@ -1,0 +1,78 @@
+                                      TAP Transport                                       
+Gene        Observed    Threshold_GTEX   Result      Threshold_TCGA_N    Result           
+
+TAP1        38.93       51.59            LOW         206.41              LOW              
+TAPBP       156.51      45.83            PASS        150.01              PASS             
+TAP2        0.02        0.84             LOW         30.95               LOW              
+
+
+                                      MHC production                                      
+Gene        Observed    Threshold_GTEX   Result      Threshold_TCGA_N    Result           
+
+NFYA        32.12       9.94             PASS        12.08               PASS             
+CD74        27.15       383.82           LOW         7888.85             LOW              
+RFXANK      93.26       58.06            PASS        78.76               PASS             
+NFYC        50.54       41.52            PASS        37.68               PASS             
+CREB1       33.14       13.64            PASS        8.51                PASS             
+NFYB        7.64        37.17            LOW         13.32               LOW              
+RFXAP       5.2         2.84             PASS        1.86                PASS             
+RFX5        17.63       10.82            PASS        44.35               LOW              
+CIITA       0.57        3.93             LOW         22.66               LOW              
+
+
+                                       MHCI loading                                       
+Gene        Observed    Threshold_GTEX   Result      Threshold_TCGA_N    Result           
+
+HLA_A       2           2                PASS        2                   PASS             
+HLA_B       2           2                PASS        2                   PASS             
+HLA_C       2           2                PASS        2                   PASS             
+CANX        303.94      171.50           PASS        162.53              PASS             
+B2M         1255.76     3237.03          LOW         15520.63            LOW              
+PDIA3       98.88       244.35           LOW         338.00              LOW              
+CALR        248.6       429.92           LOW         577.95              LOW              
+
+
+                                 MHCII epitope generation                                 
+Gene        Observed    Threshold_GTEX   Result      Threshold_TCGA_N    Result           
+
+LGMN        193.06      35.14            PASS        182.62              PASS             
+CTSB        67.78       600.67           LOW         1298.11             LOW              
+IFI30       71.08       32.03            PASS        619.30              LOW              
+
+
+                                      MHCII loading                                       
+Gene        Observed    Threshold_GTEX   Result      Threshold_TCGA_N    Result           
+
+HLA_DQA     2           0                FAIL        2                   FAIL             
+HLA_DQB     2           2                PASS        2                   PASS             
+HLA_DRB     2           2                PASS        2                   PASS             
+CD74        27.15       383.82           LOW         7888.85             LOW              
+LGMN        193.06      35.14            PASS        182.62              PASS             
+CTSL        63.43       141.72           LOW         219.69              LOW              
+CTSS        0.13        7.54             LOW         251.32              LOW              
+CTSB        67.78       600.67           LOW         1298.11             LOW              
+HLA-DMA     23.97       25.47            LOW         273.63              LOW              
+HLA-DRA     33.52       122.14           LOW         2792.22             LOW              
+HLA-DMB     3.83        12.96            LOW         265.14              LOW              
+
+
+                                 MHCI epitope generation                                  
+Gene        Observed    Threshold_GTEX   Result      Threshold_TCGA_N    Result           
+
+HSPA5       191.7       202.54           LOW         164.07              PASS             
+HSP90AA1    472.46      241.71           PASS        468.46              PASS             
+PSME1       450.99      140.60           PASS        475.76              LOW              
+HSP90AB1    1198.27     437.35           PASS        717.53              PASS             
+PSME2       380.37      93.27            PASS        581.53              LOW              
+HSPA8       497.98      422.99           PASS        698.01              LOW              
+IFNG        0.0         0.04             LOW         6.03                LOW              
+HSPA2       4.23        26.00            LOW         15.03               LOW              
+PSME3       70.25       58.61            PASS        72.03               LOW              
+HSPA4       147.5       57.20            PASS        95.37               PASS             
+HSPA6       0.17        4.10             LOW         9.33                LOW              
+HSPA1B      49.29       148.62           LOW         46.24               PASS             
+HSPA1A      1.91        144.41           LOW         83.89               LOW              
+HSPA1L      1.31        0.98             PASS        1.27                PASS             
+TNF         0.41        0.92             LOW         2.01                LOW              
+
+

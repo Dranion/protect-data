@@ -1,0 +1,7 @@
+Available clinical trials for skin cancer with GTEX and TCGA median values
+	Gene      GTEX      TCGA N    Observed  DOI for gene papers                     Clinical Trials
+
+	VEGFR2    4.22      1.67      0.00      10.1002/ijc.25963                       NCT01218867 
+
+Based on the genes overexpressed in this cancer type, here's a list of clinical trials for other types of cancer
+Data not available
